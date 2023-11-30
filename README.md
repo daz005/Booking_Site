@@ -5,7 +5,7 @@
 This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
 
 
-## Screenshots + Functionality
+## Screenshots & Functionality
 
 ![little lemon website table booking](/src/components/layout/assets/cover1.png)
 ![little lemon website table booking](/src/components/layout/assets/cover2.png)
