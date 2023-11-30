@@ -9,8 +9,8 @@ This website showcased implementing a booking application on the Little Lemon We
 
 ![little lemon website table booking](/src/components/layout/assets/cover1.png)
 ![little lemon website table booking](/src/components/layout/assets/cover2.png)
-![little lemon website table booking](/src/components/layout/assets/Screenshot_2023-11-29_at_6.12.54_PM.png)
-![little lemon website table booking](/src/components/layout/assets/Screenshot_2023-11-29_at_6.13.03_PM.png)
+![little lemon website table booking](/src/components/layout/assets/cover3.png)
+![little lemon website table booking](/src/components/layout/assets/cover4.png)
 
 
 ## Available Scripts
